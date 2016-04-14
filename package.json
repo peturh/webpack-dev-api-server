@@ -4,7 +4,8 @@
   "description": "A small project that shows how to incorporate a webpack-dev-server with an api-server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs backend/mainServer"
   },
   "repository": {
     "type": "git",
