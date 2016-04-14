@@ -1,0 +1,25 @@
+{
+  "name": "webpack-dev-api-server",
+  "version": "1.0.0",
+  "description": "A small project that shows how to incorporate a webpack-dev-server with an api-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peturh/webpack-dev-api-server.git"
+  },
+  "author": "pétur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peturh/webpack-dev-api-server/issues"
+  },
+  "homepage": "https://github.com/peturh/webpack-dev-api-server#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "serve-static": "^1.10.2",
+    "webpack": "^1.12.15",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
